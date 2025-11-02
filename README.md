@@ -1,5 +1,5 @@
 # Dragngsth EARLY ALPHA
-Grey box with a guy and a some buttons. Still working on it.
+Little guy that you can move around. Still working on it. Made with Pygame.
 
 Circle button - clear clones
 
